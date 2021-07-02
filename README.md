@@ -1,1 +1,1 @@
-# Machine-Learning-Data-Analysis-Jupyter-Notebook
+Machine learning data anaylsis project on adult dataset using jupyter notebook with the report attached.
